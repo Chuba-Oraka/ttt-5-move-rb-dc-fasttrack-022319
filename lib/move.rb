@@ -11,9 +11,9 @@ def input_to_index(input)
   if input.class == String  # Check if input is a String
     if  (1..9) === input.to_i # Check if input is within the range 1 - 9
       input = input.to_i - 1
-      p input.to_i
+      # p input.to_i
     else
-      p -1
+      -1
     end
   end
 end
