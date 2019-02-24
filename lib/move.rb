@@ -19,4 +19,5 @@ end
 
 def move(array, index, character = "X")
   # board[0] = "X"
+  array = 
 end
