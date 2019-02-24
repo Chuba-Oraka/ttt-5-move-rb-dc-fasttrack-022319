@@ -17,5 +17,5 @@ def input_to_index(input)
   end
 end
 
-def move(arr, index, character)
+def move(array, index, character)
 end
