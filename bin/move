@@ -3,5 +3,5 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
-p "Welcome to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toe!"
 board = (" " * 9).split("")
